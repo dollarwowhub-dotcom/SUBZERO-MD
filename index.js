@@ -9,11 +9,11 @@ $$\   $$ |$$ |  $$ |$$ |  $$ | $$  _/   $$   ____|$$ |      $$ |  $$ |
 \$$$$$$  |\$$$$$$  |$$$$$$$  |$$$$$$$$\ \$$$$$$$\ $$ |      \$$$$$$  |
  \______/  \______/ \_______/ \________| \_______|\__|       \______/
 
-@ Project Name : SubZero MD
+@ Project Name : D O L L A R
 * Creator      : Darrell Mucheri ( Mr Frank OFC )
 * My Git       : https//github.com/mrfr8nk
-* Contact      : wa.me/263776046121
-* Channel      : https://whatsapp.com/channel/0029Vb7D70MI7BeC0xUnKb05
+* Contact      : wa.me/92412310508
+* Channel      : https://whatsapp.com/channel/0029VbBkbB93GJOpcrjQNy1e
 * Release Date : 15 December 2024 12.01 AM
 */
 
